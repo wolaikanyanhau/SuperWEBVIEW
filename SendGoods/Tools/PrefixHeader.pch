@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  SendGoods
+//
+//  Created by 郑州聚义 on 16/6/23.
+//  Copyright © 2016年 郑州聚义. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//把header文件引入
+#import "Header.h"
+
+//pch一般用于引入头文件.(引入后整个工程都不需要在引入这个头文件, 就可以进行使用)一般引入特别常用的一些类
+
+
+#endif /* PrefixHeader_pch */
